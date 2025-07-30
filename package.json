@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/drainerlight/electron-printer.git-prebuilds"
+    "url": "https://github.com/drainerlight/electron-printer-prebuilds.git"
   },
   "scripts": {
     "install": "node-pre-gyp install --fallback-to-build",
@@ -23,7 +23,7 @@
     "module_name": "node_printer",
     "module_path": "./build/Release/",
     "package_name": "electron-v{target}-{platform}-{arch}.tar.gz",
-    "host": "https://github.com/drainerlight/electron-printer-prebuilts/releases/download",
+    "host": "https://github.com/drainerlight/electron-printer-prebuilds/releases/download",
     "remote_path": "{version}"
   },
   "dependencies": {
