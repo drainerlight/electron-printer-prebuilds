@@ -1,7 +1,7 @@
 {
   "name": "electron-printer-prebuilds",
   "description": "Node.js printer bindings - electron prebuilds",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/drainerlight/electron-printer-prebuilds",
   "author": {
     "name": "Drainerlight"
